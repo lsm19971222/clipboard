@@ -10,7 +10,7 @@ const copyEvent = function (ele, content) {
   })
 }
 
-const createClipboard = function ({ innerData, width = '', height = '', textColor = '', fontWeight = '700', fontSize = '18' }) {
+const createClipboard = function ({ innerData, width = '', height = '', textColor = '', fontWeight = '500', fontSize = '15' }) {
   let wrap = document.createElement('div');
   let pre = document.createElement('pre');
   let copyIco = document.createElement('span')
