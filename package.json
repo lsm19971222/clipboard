@@ -1,6 +1,6 @@
 {
   "name": "clipboard_zh",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "可以在模板上插入文本，可以实现复制文本的功能",
   "main": "dist/index.js",
   "scripts": {
